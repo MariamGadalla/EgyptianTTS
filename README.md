@@ -16,6 +16,8 @@ EgyptianTTS is a Text-to-Speech (TTS) system designed to convert written Egyptia
     ```bash
     cd EgyptianTTS
     ```
+## Usage
+- To test using jupyter notebook, use the test notebook located at `Code/architecture/test.ipynb`.
 
 ## Project Structure
 - `text_preprocessing/`: Contains scripts and csv files for text prerocessing.
