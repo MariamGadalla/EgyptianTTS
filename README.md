@@ -22,7 +22,8 @@ EgyptianTTS is a Text-to-Speech (TTS) system designed to convert written Egyptia
 ## Project Structure
 - `text_preprocessing/`: Contains scripts and csv files for text prerocessing.
 - `dataset.csv`: The text dataset used for training the TTS model.
-
+- Trained model: https://drive.google.com/drive/folders/1Q2Y18ob8S1xvLG0f1afxlrJ2Mf13tl7j?usp=drive_link
+- Pre-trained models: https://drive.google.com/drive/folders/1xEhvT-khYjsaMMYDkT3KdxV5VLqRIldD?usp=drive_link
 ---
 
 For more details, visit the [GitHub repository](https://github.com/MariamGadalla/EgyptianTTS).
